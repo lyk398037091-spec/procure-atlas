@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://example.github.io/procure-atlas/sitemap.xml

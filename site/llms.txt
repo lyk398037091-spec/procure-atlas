@@ -1,0 +1,21 @@
+# ProcureAtlas
+
+> Evidence-first manufacturer discovery and procurement decision layer. Initial vertical: packaging machinery in China.
+
+## Core principles
+- Manufacturer pages distinguish public-source evidence from factory-audit status.
+- Missing capability data must not be inferred as true.
+- Organic matching is intended to remain independent from paid placement.
+
+## Data
+- https://example.github.io/procure-atlas/data/manufacturers.json
+- https://example.github.io/procure-atlas/data/products.json
+- https://example.github.io/procure-atlas/data/capabilities.json
+- https://example.github.io/procure-atlas/data/applications.json
+- https://example.github.io/procure-atlas/data/market.json
+
+## Important pages
+- https://example.github.io/procure-atlas/manufacturers/
+- https://example.github.io/procure-atlas/products/
+- https://example.github.io/procure-atlas/methodology/
+- https://example.github.io/procure-atlas/compare/

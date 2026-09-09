@@ -1,0 +1,7 @@
+[
+  {"id":"application:beverage","slug":"beverage","name":"Beverage","description":"Water, carbonated drinks, juice, tea and related liquid beverage packaging."},
+  {"id":"application:food","slug":"food","name":"Food","description":"Primary and secondary packaging for food, bakery, snacks, meat and prepared products."},
+  {"id":"application:pharma","slug":"pharma","name":"Pharmaceutical","description":"Packaging systems used around pharmaceutical and healthcare products."},
+  {"id":"application:daily-chemicals","slug":"daily-chemicals","name":"Daily Chemicals","description":"Filling and packaging for household and personal-care products."},
+  {"id":"application:ecommerce-logistics","slug":"ecommerce-logistics","name":"E-commerce & Logistics","description":"Carton sealing, strapping, wrapping and end-of-line equipment."}
+]

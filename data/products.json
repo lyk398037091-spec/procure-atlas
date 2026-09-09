@@ -1,0 +1,17 @@
+[
+  {"id":"product:liquid-filling-line","slug":"liquid-filling-line","name":"Liquid Filling Line","category":"Filling & Bottling","description":"Integrated equipment for filling liquid products into bottles or containers, often combined with rinsing, capping, labeling and conveying."},
+  {"id":"product:blow-fill-cap-combi","slug":"blow-fill-cap-combi","name":"Blow-Fill-Cap Combi","category":"Filling & Bottling","description":"Integrated PET bottle blowing, filling and capping equipment for high-throughput beverage lines."},
+  {"id":"product:labeling-machine","slug":"labeling-machine","name":"Labeling Machine","category":"Labeling","description":"Automatic systems for applying labels to bottles, cartons or other packages."},
+  {"id":"product:vffs-machine","slug":"vffs-machine","name":"Vertical Form-Fill-Seal Machine","category":"Flexible Packaging","description":"Vertical packaging equipment that forms a bag from rollstock, fills product and seals the package."},
+  {"id":"product:horizontal-flow-wrapper","slug":"horizontal-flow-wrapper","name":"Horizontal Flow Wrapper","category":"Flexible Packaging","description":"Horizontal flow-pack equipment commonly used for food, bakery, daily goods and industrial products."},
+  {"id":"product:premade-pouch-machine","slug":"premade-pouch-machine","name":"Premade Pouch Packing Machine","category":"Flexible Packaging","description":"Automatic packaging equipment for pre-made pouches and doypacks."},
+  {"id":"product:cartoning-machine","slug":"cartoning-machine","name":"Cartoning Machine","category":"Secondary Packaging","description":"Automatic equipment for erecting, loading and closing cartons."},
+  {"id":"product:case-erector","slug":"case-erector","name":"Case Erector","category":"End-of-Line","description":"Equipment that forms corrugated cases for downstream packing."},
+  {"id":"product:case-sealer","slug":"case-sealer","name":"Case Sealer","category":"End-of-Line","description":"Equipment that automatically closes and seals corrugated cases."},
+  {"id":"product:shrink-wrapper","slug":"shrink-wrapper","name":"Shrink Wrapping Machine","category":"End-of-Line","description":"Equipment that wraps products or bundles in shrink film and applies heat to shrink the film."},
+  {"id":"product:strapping-machine","slug":"strapping-machine","name":"Strapping Machine","category":"End-of-Line","description":"Equipment for applying plastic or other straps around cartons, bundles or pallets."},
+  {"id":"product:palletizer","slug":"palletizer","name":"Palletizer","category":"End-of-Line","description":"Automatic or robotic systems that arrange packaged products onto pallets."},
+  {"id":"product:vacuum-packaging-machine","slug":"vacuum-packaging-machine","name":"Vacuum Packaging Machine","category":"Food Packaging","description":"Equipment that removes air from a package before sealing, commonly used in food processing."},
+  {"id":"product:filling-capping-machine","slug":"filling-capping-machine","name":"Filling & Capping Machine","category":"Filling & Bottling","description":"Integrated equipment for dosing liquid or semi-liquid products and applying caps or closures."},
+  {"id":"product:bottling-line","slug":"bottling-line","name":"Bottling Line","category":"Filling & Bottling","description":"Integrated packaging line for bottles, typically covering conveying, filling, capping and downstream packaging."}
+]

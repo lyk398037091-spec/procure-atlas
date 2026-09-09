@@ -1,0 +1,19 @@
+[
+  {"id":"capability:full-line-integration","slug":"full-line-integration","name":"Full-line integration","group":"Engineering"},
+  {"id":"capability:customized-lines","slug":"customized-lines","name":"Customized production lines","group":"Engineering"},
+  {"id":"capability:liquid-packaging","slug":"liquid-packaging","name":"Liquid product packaging","group":"Application"},
+  {"id":"capability:aseptic-filling","slug":"aseptic-filling","name":"Aseptic filling","group":"Process"},
+  {"id":"capability:pet-bottle-lines","slug":"pet-bottle-lines","name":"PET bottle line integration","group":"Application"},
+  {"id":"capability:flexible-packaging","slug":"flexible-packaging","name":"Flexible packaging","group":"Process"},
+  {"id":"capability:premade-pouch","slug":"premade-pouch","name":"Premade pouch systems","group":"Process"},
+  {"id":"capability:vffs","slug":"vffs","name":"Vertical form-fill-seal","group":"Process"},
+  {"id":"capability:flow-pack","slug":"flow-pack","name":"Horizontal flow wrapping","group":"Process"},
+  {"id":"capability:end-of-line","slug":"end-of-line","name":"End-of-line automation","group":"Engineering"},
+  {"id":"capability:robotic-palletizing","slug":"robotic-palletizing","name":"Robotic palletizing","group":"Automation"},
+  {"id":"capability:carton-automation","slug":"carton-automation","name":"Carton handling automation","group":"Automation"},
+  {"id":"capability:labeling","slug":"labeling","name":"Automatic labeling","group":"Process"},
+  {"id":"capability:shrink-packaging","slug":"shrink-packaging","name":"Shrink packaging","group":"Process"},
+  {"id":"capability:strapping","slug":"strapping","name":"Automatic strapping","group":"Process"},
+  {"id":"capability:vacuum-packaging","slug":"vacuum-packaging","name":"Vacuum packaging","group":"Process"},
+  {"id":"capability:export-visible","slug":"export-visible","name":"Publicly stated international/export presence","group":"Commercial"}
+]

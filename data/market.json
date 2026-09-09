@@ -1,0 +1,9 @@
+{
+  "vertical":"Packaging machinery",
+  "decisionDate":"2026-09-08",
+  "why":"High-value B2B equipment, strong China export activity, public technical information, structured comparison dimensions, and clear RFQ intent.",
+  "signals":[
+    {"label":"China packaging machinery exports, Jan-Apr 2026","value":"US$1.873B","note":"Reported export value, +11.3% YoY","source":"https://www.huaon.com/channel/tradedata/1171852.html"},
+    {"label":"Global packaging machinery market, 2026","value":"US$64.3B","note":"Grand View Research estimate","source":"https://www.grandviewresearch.com/industry-analysis/packaging-machinery-market"}
+  ]
+}
